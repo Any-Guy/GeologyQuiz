@@ -1,0 +1,12 @@
+{
+  "version": "1.0",
+  "categories": {
+    "rocks": "categories/rocks.json",
+    "minerals": "categories/minerals.json",
+    "structural": "categories/structural.json",
+    "mapping": "categories/mapping.json"
+  },
+  "daily": {
+    "today": "daily/2025-11-24.json"
+  }
+}
