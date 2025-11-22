@@ -1,0 +1,204 @@
+static let structural: [QuizQuestion] = [
+    QuizQuestion(question: "Strike is defined as:", options: [
+        "Direction of the line formed by bedding plane and horizontal plane",
+        "Angle of inclination of bedding",
+        "Angle between horizontal plane and vertical plane",
+        "Compass bearing of dip direction"
+    ], answer: "Direction of the line formed by bedding plane and horizontal plane"),
+
+    QuizQuestion(question: "Dip is measured:", options: [
+        "Perpendicular to strike",
+        "Parallel to strike",
+        "At any random direction",
+        "Only north-south"
+    ], answer: "Perpendicular to strike"),
+
+    QuizQuestion(question: "Dip angle represents:", options: [
+        "Maximum angle of slope of bedding",
+        "Horizontal angle only",
+        "Vertical joint angle",
+        "Compass direction only"
+    ], answer: "Maximum angle of slope of bedding"),
+
+    QuizQuestion(question: "A strike of 040° means the line is oriented:", options: [
+        "NE-SW",
+        "NW-SE",
+        "N-S",
+        "E-W"
+    ], answer: "NE-SW"),
+
+    QuizQuestion(question: "A dip of 90° means:", options: [
+        "Vertical beds",
+        "Horizontal beds",
+        "Overturned beds",
+        "Folded beds"
+    ], answer: "Vertical beds"),
+
+    QuizQuestion(question: "A plunge is associated with:", options: [
+        "Fold axis",
+        "Fault plane",
+        "Joint plane",
+        "Dyke orientation"
+    ], answer: "Fold axis"),
+
+    QuizQuestion(question: "An anticline has:", options: [
+        "Beds dipping away from center",
+        "Beds dipping towards center",
+        "Vertical beds",
+        "No dip"
+    ], answer: "Beds dipping away from center"),
+
+    QuizQuestion(question: "A syncline has:", options: [
+        "Beds dipping inward",
+        "Beds dipping outward",
+        "Vertical beds",
+        "Criss-cross dip"
+    ], answer: "Beds dipping inward"),
+
+    QuizQuestion(question: "Overturned folds have:", options: [
+        "Both limbs dipping in same direction",
+        "One limb vertical",
+        "No plunge",
+        "Horizontal axial plane"
+    ], answer: "Both limbs dipping in same direction"),
+
+    QuizQuestion(question: "The line of intersection of two planar surfaces is called:", options: [
+        "Hinge line",
+        "Slickenside",
+        "Shear zone",
+        "Fold limb"
+    ], answer: "Hinge line"),
+
+    QuizQuestion(question: "A fault in which hanging wall moves down is:", options: [
+        "Normal fault",
+        "Reverse fault",
+        "Thrust fault",
+        "Strike-slip fault"
+    ], answer: "Normal fault"),
+
+    QuizQuestion(question: "A steep fault with >45° dip and compression is:", options: [
+        "Reverse fault",
+        "Normal fault",
+        "Thrust fault",
+        "Transform fault"
+    ], answer: "Reverse fault"),
+
+    QuizQuestion(question: "A shallow fault with <45° dip is:", options: [
+        "Thrust fault",
+        "Normal fault",
+        "Strike-slip fault",
+        "Oblique fault"
+    ], answer: "Thrust fault"),
+
+    QuizQuestion(question: "Horizontal displacement occurs in:", options: [
+        "Strike-slip faults",
+        "Normal faults",
+        "Reverse faults",
+        "Thrust faults"
+    ], answer: "Strike-slip faults"),
+
+    QuizQuestion(question: "The fold limb is:", options: [
+        "The sides of the fold",
+        "The point of maximum curvature",
+        "The line of intersection",
+        "The vertical plane"
+    ], answer: "The sides of the fold"),
+
+    QuizQuestion(question: "Which compass is used for strike & dip?", options: [
+        "Brunton compass",
+        "Hand lens compass",
+        "Magnetic declinometer",
+        "Altimeter"
+    ], answer: "Brunton compass"),
+
+    QuizQuestion(question: "The axial plane divides a fold into:", options: [
+        "Two limbs",
+        "Two faults",
+        "Two joints",
+        "Two edges"
+    ], answer: "Two limbs"),
+
+    QuizQuestion(question: "Horizontal beds have dip of:", options: [
+        "0°",
+        "45°",
+        "90°",
+        "Variable"
+    ], answer: "0°"),
+
+    QuizQuestion(question: "Vertical beds have strike:", options: [
+        "Undefined",
+        "East-west",
+        "North-south",
+        "Always 90°"
+    ], answer: "Undefined"),
+
+    QuizQuestion(question: "A recumbent fold has:", options: [
+        "Horizontal axial plane",
+        "Vertical axial plane",
+        "No hinge",
+        "Symmetrical limbs"
+    ], answer: "Horizontal axial plane"),
+
+    QuizQuestion(question: "Slickensides are found on:", options: [
+        "Fault planes",
+        "Fold limbs",
+        "Joint planes",
+        "Unconformities"
+    ], answer: "Fault planes"),
+
+    QuizQuestion(question: "Which shows brittle deformation:", options: [
+        "Faults",
+        "Folds",
+        "Ductile zones",
+        "Gneissic banding"
+    ], answer: "Faults"),
+
+    QuizQuestion(question: "Which shows ductile deformation:", options: [
+        "Folds",
+        "Joints",
+        "Fault breccia",
+        "Columnar joints"
+    ], answer: "Folds"),
+
+    QuizQuestion(question: "Joints form due to:", options: [
+        "Tension",
+        "Compression",
+        "Shear",
+        "All of these"
+    ], answer: "All of these"),
+
+    QuizQuestion(question: "Dip direction is expressed as:", options: [
+        "Azimuth bearing",
+        "Dip angle only",
+        "Strike only",
+        "N/S direction"
+    ], answer: "Azimuth bearing"),
+
+    QuizQuestion(question: "The vertical angle between bedding and horizontal is:", options: [
+        "Dip",
+        "Strike",
+        "Plunge",
+        "Pitch"
+    ], answer: "Dip"),
+
+    QuizQuestion(question: "A limb that dips more steeply is:", options: [
+        "Steeper limb",
+        "Overturned limb",
+        "Hinged limb",
+        "Straight limb"
+    ], answer: "Steeper limb"),
+
+    QuizQuestion(question: "Conjugate joints are:", options: [
+        "Two sets intersecting at acute angle",
+        "Random cracks",
+        "Only vertical joints",
+        "Only cooling fractures"
+    ], answer: "Two sets intersecting at acute angle"),
+
+    QuizQuestion(question: "Hinge is the point of:", options: [
+        "Maximum curvature",
+        "No curvature",
+        "Zero dip",
+        "Fracture"
+    ], answer: "Maximum curvature")
+]
