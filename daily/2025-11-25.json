@@ -1,0 +1,77 @@
+[
+  {
+    "question": "The hardness of quartz on the Mohs scale is:",
+    "options": ["5", "6", "7", "8"],
+    "answer": "7"
+  },
+  {
+    "question": "Which rock typically contains visible quartz and feldspar crystals?",
+    "options": ["Granite", "Basalt", "Gabbro", "Sandstone"],
+    "answer": "Granite"
+  },
+  {
+    "question": "Dip direction is measured:",
+    "options": ["Parallel to strike", "Perpendicular to strike", "Vertically", "Randomly"],
+    "answer": "Perpendicular to strike"
+  },
+  {
+    "question": "Which type of volcano is broad, gently sloping, and formed by basaltic lava flows?",
+    "options": ["Shield volcano", "Composite volcano", "Cinder cone", "Caldera"],
+    "answer": "Shield volcano"
+  },
+  {
+    "question": "Which mineral reacts vigorously with dilute HCl?",
+    "options": ["Quartz", "Calcite", "Feldspar", "Mica"],
+    "answer": "Calcite"
+  },
+  {
+    "question": "A graded bedding structure typically indicates:",
+    "options": ["Wind action", "Glacial transport", "Turbidity current", "Evaporation"],
+    "answer": "Turbidity current"
+  },
+  {
+    "question": "A fold in which the limbs dip toward the center is called:",
+    "options": ["Anticline", "Syncline", "Monocline", "Dome"],
+    "answer": "Syncline"
+  },
+  {
+    "question": "Which igneous texture indicates two stages of cooling?",
+    "options": ["Glassy", "Porphyritic", "Aphanitic", "Vesicular"],
+    "answer": "Porphyritic"
+  },
+  {
+    "question": "Fossils are most commonly found in:",
+    "options": ["Basalt", "Granite", "Sandstone", "Gneiss"],
+    "answer": "Sandstone"
+  },
+  {
+    "question": "The Richter scale measures:",
+    "options": ["Earthquake magnitude", "Earthquake intensity", "Air pressure", "Wind speed"],
+    "answer": "Earthquake magnitude"
+  },
+  {
+    "question": "Schist is a metamorphic rock with:",
+    "options": ["No foliation", "Coarse, visible mica flakes", "Fine clay minerals", "Large quartz veins"],
+    "answer": "Coarse, visible mica flakes"
+  },
+  {
+    "question": "The boundary where two tectonic plates move apart is called:",
+    "options": ["Convergent boundary", "Transform boundary", "Divergent boundary", "Strike-slip zone"],
+    "answer": "Divergent boundary"
+  },
+  {
+    "question": "Which mineral is known as 'fool's gold'?",
+    "options": ["Galena", "Hematite", "Pyrite", "Chalcopyrite"],
+    "answer": "Pyrite"
+  },
+  {
+    "question": "Cross-bedding in sandstone indicates:",
+    "options": ["Deep-sea environment", "Wind or river flow", "Glacial processes", "Volcanic activity"],
+    "answer": "Wind or river flow"
+  },
+  {
+    "question": "A basaltic rock with numerous gas bubbles has a ______ texture.",
+    "options": ["Vesicular", "Porphyritic", "Glassy", "Coarse-grained"],
+    "answer": "Vesicular"
+  }
+]
