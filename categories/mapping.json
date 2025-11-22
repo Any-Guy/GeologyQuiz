@@ -1,0 +1,204 @@
+static let mapping: [QuizQuestion] = [
+    QuizQuestion(question: "Contour lines that form a ‘V’ upstream indicate:", options: [
+        "A river valley",
+        "A ridge",
+        "A plateau",
+        "A depression"
+    ], answer: "A river valley"),
+
+    QuizQuestion(question: "Closed contour lines with hachures indicate:", options: [
+        "Depression",
+        "Hill top",
+        "Cliff",
+        "River delta"
+    ], answer: "Depression"),
+
+    QuizQuestion(question: "Widely spaced contour lines indicate:", options: [
+        "Gentle slope",
+        "Steep slope",
+        "Cliff",
+        "Ridge"
+    ], answer: "Gentle slope"),
+
+    QuizQuestion(question: "A topographic map shows:", options: [
+        "Elevation & terrain",
+        "Rock types",
+        "Mineral deposits",
+        "Soil chemistry"
+    ], answer: "Elevation & terrain"),
+
+    QuizQuestion(question: "Benchmark indicates:", options: [
+        "Fixed elevation point",
+        "Rock boundary",
+        "Fault trace",
+        "Stream direction"
+    ], answer: "Fixed elevation point"),
+
+    QuizQuestion(question: "Which scale has more detail?", options: [
+        "1:10,000",
+        "1:250,000",
+        "1:1,000,000",
+        "1:500,000"
+    ], answer: "1:10,000"),
+
+    QuizQuestion(question: "Strike on map is shown using:", options: [
+        "Long short bar symbol",
+        "Triangle",
+        "Circle",
+        "X-mark"
+    ], answer: "Long short bar symbol"),
+
+    QuizQuestion(question: "Dip on map is added as:", options: [
+        "Short tick mark",
+        "Long bar",
+        "Arrow",
+        "Triangle"
+    ], answer: "Short tick mark"),
+
+    QuizQuestion(question: "Dip direction arrow always points:", options: [
+        "Down dip",
+        "Up dip",
+        "Along strike",
+        "North"
+    ], answer: "Down dip"),
+
+    QuizQuestion(question: "Which color usually represents sedimentary rocks?", options: [
+        "Yellow",
+        "Black",
+        "Purple",
+        "Red"
+    ], answer: "Yellow"),
+
+    QuizQuestion(question: "GPS gives:", options: [
+        "Latitude & longitude",
+        "Rock type",
+        "Mineral composition",
+        "Bed thickness"
+    ], answer: "Latitude & longitude"),
+
+    QuizQuestion(question: "Cross-sections are drawn along:", options: [
+        "Line of section",
+        "River",
+        "Strike only",
+        "Vertical cliffs"
+    ], answer: "Line of section"),
+
+    QuizQuestion(question: "Lithological boundary is shown as:", options: [
+        "Solid line",
+        "Dotted line",
+        "Hachured line",
+        "Bold line"
+    ], answer: "Solid line"),
+
+    QuizQuestion(question: "Fault trace on map appears as:", options: [
+        "Thick line with teeth/triangles",
+        "Thin line",
+        "Wavy line",
+        "Hachured circle"
+    ], answer: "Thick line with teeth/triangles"),
+
+    QuizQuestion(question: "A dyke cuts across:", options: [
+        "Strata",
+        "Strike only",
+        "Valley",
+        "River"
+    ], answer: "Strata"),
+
+    QuizQuestion(question: "Bathymetric maps show:", options: [
+        "Ocean depth",
+        "Underground mines",
+        "Rock ages",
+        "Earthquake zones"
+    ], answer: "Ocean depth"),
+
+    QuizQuestion(question: "A contact between sedimentary and igneous rocks is:", options: [
+        "Intrusive boundary",
+        "Unconformity",
+        "Joint plane",
+        "Foliation"
+    ], answer: "Intrusive boundary"),
+
+    QuizQuestion(question: "Magnetic declination is angle between:", options: [
+        "True north & magnetic north",
+        "Dip & strike",
+        "Elevation & depth",
+        "Latitude & longitude"
+    ], answer: "True north & magnetic north"),
+
+    QuizQuestion(question: "A topo map with 20 m contour interval means:", options: [
+        "Each line differs by 20 m elevation",
+        "Scale is 20 m",
+        "Map covers 20 km",
+        "Lines spaced 20 m apart on ground"
+    ], answer: "Each line differs by 20 m elevation"),
+
+    QuizQuestion(question: "Which symbol shows perennial river?", options: [
+        "Solid blue line",
+        "Dashed blue line",
+        "Red line",
+        "Black line"
+    ], answer: "Solid blue line"),
+
+    QuizQuestion(question: "Strike-slip faults appear on maps as:", options: [
+        "Straight lines with horizontal offset",
+        "Curved lines",
+        "Short disconnected segments",
+        "Circular marks"
+    ], answer: "Straight lines with horizontal offset"),
+
+    QuizQuestion(question: "A ridge appears as:", options: [
+        "Contour lines forming U-shape pointing downhill",
+        "V-shape upstream",
+        "Closed circles",
+        "Random spacing"
+    ], answer: "Contour lines forming U-shape pointing downhill"),
+
+    QuizQuestion(question: "Geological maps show:", options: [
+        "Rock types & structures",
+        "Temperature",
+        "Soil chemistry",
+        "River discharge"
+    ], answer: "Rock types & structures"),
+
+    QuizQuestion(question: "Unconformities represent:", options: [
+        "Gap in geological record",
+        "Fault occurrence",
+        "Metamorphic zones",
+        "Volcanic activity only"
+    ], answer: "Gap in geological record"),
+
+    QuizQuestion(question: "Index contours are:", options: [
+        "Thicker contour lines",
+        "Dashed lines",
+        "1000 m only",
+        "Fault marks"
+    ], answer: "Thicker contour lines"),
+
+    QuizQuestion(question: "A cuesta is:", options: [
+        "Gentle dip slope & steep scarp",
+        "Sharp ridge",
+        "Valley",
+        "Swamp"
+    ], answer: "Gentle dip slope & steep scarp"),
+
+    QuizQuestion(question: "A geological cross section is:", options: [
+        "Vertical profile of subsurface",
+        "Map view",
+        "Satellite image",
+        "Elevation graph"
+    ], answer: "Vertical profile of subsurface"),
+
+    QuizQuestion(question: "Which is used for slope analysis?", options: [
+        "Contour spacing",
+        "Color coding",
+        "Mineralogy",
+        "Hardness test"
+    ], answer: "Contour spacing"),
+
+    QuizQuestion(question: "A strike fault shows:", options: [
+        "Horizontal motion",
+        "Vertical motion",
+        "Dipping motion",
+        "Rotational motion"
+    ], answer: "Horizontal motion")
+]
